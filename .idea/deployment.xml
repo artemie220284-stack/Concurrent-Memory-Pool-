@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="远程主机 (1) (cc34b214-a37c-4267-baca-94b1a8969aa7)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.BazgIbbE93" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="远程主机 (1) (e88f35ae-fcf8-43e5-b37e-ad5090e6e154)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.tiy2hpkUbM" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="远程主机 (2) (dafdf9b8-6cdf-4461-94e9-dc35811435d6)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.qRpSKzBvZw" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="远程主机 (6f38d804-7f5c-4694-9335-2d984598506e)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
